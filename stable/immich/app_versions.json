@@ -1,9 +1,9 @@
 {
-    "15.13.9": {
+    "16.01.1": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/immich/15.13.9",
+        "location": "/home/runner/_work/catalog/catalog/stable/immich/16.01.1",
         "last_update": "2024-05-29 12:35:14",
         "required_features": [
             "definitions/timezone",
@@ -11,8 +11,8 @@
             "definitions/certificate",
             "definitions/interface"
         ],
-        "human_version": "1.105.1_15.13.9",
-        "version": "15.13.9",
+        "human_version": "1.106.4_16.01.1",
+        "version": "16.01.1",
         "chart_metadata": {
             "annotations": {
                 "truecharts.org/category": "media",
@@ -21,7 +21,7 @@
                 "truecharts.org/train": "stable"
             },
             "apiVersion": "v2",
-            "appVersion": "1.105.1",
+            "appVersion": "1.106.4",
             "dependencies": [
                 {
                     "name": "common",
@@ -65,7 +65,7 @@
                 "https://hub.docker.com/r/altran1502/immich-server"
             ],
             "type": "application",
-            "version": "15.13.9"
+            "version": "16.01.1"
         },
         "app_metadata": null,
         "schema": {
