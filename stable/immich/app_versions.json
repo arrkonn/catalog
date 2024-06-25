@@ -16,6 +16,7 @@
         "chart_metadata": {
             "annotations": {
                 "truecharts.org/category": "media",
+                "truecharts.org/SCALE-support": "true",
                 "truecharts.org/max_helm_version": "3.14",
                 "truecharts.org/min_helm_version": "3.11",
                 "truecharts.org/train": "stable"
@@ -16287,6 +16288,7 @@
             "annotations": {
                 "max_scale_version": "24.04.0",
                 "min_scale_version": "23.10.0",
+                "truecharts.org/SCALE-support": "true",
                 "truecharts.org/category": "media",
                 "truecharts.org/max_helm_version": "3.14",
                 "truecharts.org/min_helm_version": "3.11",
@@ -24147,6 +24149,7 @@
             "annotations": {
                 "max_scale_version": "24.04.0",
                 "min_scale_version": "23.10.0",
+                "truecharts.org/SCALE-support": "true",
                 "truecharts.org/category": "media",
                 "truecharts.org/max_helm_version": "3.14",
                 "truecharts.org/min_helm_version": "3.11",
