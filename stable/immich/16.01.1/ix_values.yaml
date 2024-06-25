@@ -1,6 +1,6 @@
 image:
   repository: altran1502/immich-server
-  tag: v1.106.
+  tag: v1.106.4
   pullPolicy: IfNotPresent
 
 mlImage:
