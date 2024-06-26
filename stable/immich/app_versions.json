@@ -8196,7 +8196,7 @@
             "name": "immich",
             "sources": [
                 "https://github.com/immich-app/immich",
-                "https://github.com/truecharts/charts/tree/master/charts/stable/immich",
+                "https://github.com/arrkonn/charts/tree/master/charts/stable/immich",
                 "https://hub.docker.com/r/altran1502/immich-machine-learning",
                 "https://hub.docker.com/r/altran1502/immich-server"
             ],
@@ -16334,7 +16334,7 @@
             "name": "immich",
             "sources": [
                 "https://github.com/immich-app/immich",
-                "https://github.com/truecharts/charts/tree/master/charts/stable/immich",
+                "https://github.com/arrkonn/charts/tree/master/charts/stable/immich",
                 "https://hub.docker.com/r/altran1502/immich-machine-learning",
                 "https://hub.docker.com/r/altran1502/immich-server"
             ],
@@ -24195,7 +24195,7 @@
             "name": "immich",
             "sources": [
                 "https://github.com/immich-app/immich",
-                "https://github.com/truecharts/charts/tree/master/charts/stable/immich",
+                "https://github.com/arrkonn/charts/tree/master/charts/stable/immich",
                 "https://hub.docker.com/r/altran1502/immich-machine-learning",
                 "https://hub.docker.com/r/altran1502/immich-server"
             ],
