@@ -10283,10 +10283,10 @@
             "healthy_error": null,
             "home": "https://truecharts.org/charts/stable/immich",
             "location": "/home/runner/_work/catalog/catalog/stable/immich",
-            "latest_version": "16.01.1",
-            "latest_app_version": "1.106.4",
-            "latest_human_version": "1.106.4_16.01.1",
-            "last_update": "2024-05-29 12:35:14",
+            "latest_version": "16.01.2",
+            "latest_app_version": "1.107.2",
+            "latest_human_version": "1.107.2_16.01.2",
+            "last_update": "2024-07-08 12:35:14",
             "name": "immich",
             "recommended": false,
             "title": "Immich",
@@ -10301,7 +10301,7 @@
             "screenshots": [],
             "sources": [
                 "https://github.com/immich-app/immich",
-                "https://github.com/truecharts/charts/tree/master/charts/stable/immich",
+                "https://github.com/arrkonn/charts/tree/master/charts/stable/immich",
                 "https://hub.docker.com/r/altran1502/immich-machine-learning",
                 "https://hub.docker.com/r/altran1502/immich-server"
             ],
