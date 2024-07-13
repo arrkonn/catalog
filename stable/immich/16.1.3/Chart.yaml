@@ -4,10 +4,10 @@ annotations:
   truecharts.org/min_helm_version: "3.11"
   truecharts.org/train: stable
 apiVersion: v2
-appVersion: 1.105.1
+appVersion: 1.108.0
 dependencies:
   - name: common
-    version: 23.0.9
+    version: 23.0.10
     repository: oci://tccr.io/truecharts
     condition: ""
     alias: ""
@@ -38,4 +38,4 @@ sources:
   - https://hub.docker.com/r/altran1502/immich-machine-learning
   - https://hub.docker.com/r/altran1502/immich-server
 type: application
-version: 15.13.8
+version: 16.1.3
